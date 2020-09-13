@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency Converter Application</string>
+    <string name="editText_hint">Enter value in Rupees</string>
+    <string name="date_info_string">"As of %1$s, 1 INR amounts to: \n (approx values)</string>
+    <string name="convert_button_string">Convert</string>
+    <string name="usd_value_string">US Dollar : %1$s\n(USD)</string>
+    <string name="gbp_value_string">Pound Sterling: %1$s\n(GBP)</string>
+    <string name="eur_value_string">Euro : %1$s\n(EUR)</string>
+    <string name="chf_value_string">Swiss Franc : %1$s\n(CHF)</string>
+    <string name="sek_value_string">Swedish Krona : %1$s\n(SEK)</string>
+    <string name="cad_value_string">Canadian Dollar : %1$s\n(CAD)</string>
+</resources>
